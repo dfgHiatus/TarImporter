@@ -16,7 +16,7 @@ public class TarImporter : ResoniteMod
 {
     public override string Name => "TarImporter";
     public override string Author => "dfgHiatus, eia485";
-    public override string Version => "2.0.0";
+    public override string Version => "1.0.0";
     public override string Link => "https://github.com/dfgHiatus/ResoniteUnityPackagesImporter";
 
     internal const string TAR_FILE_EXTENSION = ".tar";
